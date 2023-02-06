@@ -1,17 +1,21 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
+import "/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/style.css";
+// import reactLogo from "/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/images/react-logo.png";
+// import App from "./App";
+import CV from "./CV";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+// console.log("Hello, World!");
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// function Header() {
+//   return (
+//     <div>
+//       <h1>SERGE USE REACT!</h1>
+//       <img src={reactLogo} alt="React logo" className="reactLogo" />
+//     </div>
+//   );
+// }
+
+// ReactDOM.render(<Header />, document.getElementById("root"));
+
+ReactDOM.render(<CV />, document.getElementById("root"));

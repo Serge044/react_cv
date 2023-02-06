@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1F2025;
+}
+
+p {
+    color: #A2A1A4;
+}
+
+#root {
+    background-color: #141519;
+    margin: auto;
+    width: 400px;
+    height: 950px;
+    color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+/* Info */
+
+.sergePhoto {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.infoTexts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fedText {
+    padding-top: 5px;
+    font-size: 15px;
+    color: #BF6329;
+}
+
+.websiteText {
+    padding-top: 10px;
+    font-size: 14px;
+    color: #A2A1A4;
+}
+
+.buttonsLinks {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.emailLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 40px;
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.linkedinLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 40px;
+    background-color: rgb(77, 169, 250);
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.emailIcon {
+    width: 15px;
+    margin-right: 5px;
+}
+
+.emailText {
+    color: black;
+}
+
+.linkedinText {
+    color: whitesmoke;
+}
+
+.linkedinIcon {
+    width: 15px;
+    margin-right: 5px;
+    background-color: whitesmoke;
+    border-radius: 10%;
+}
+
+/* About */
+
+.divAbout {
+    padding: 20px;
+}
+
+/* Interests */
+
+.divInterests {
+    padding: 20px;
+}
+
+/* Footer */
+
+.divFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.twitterLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.facebookLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.instagramLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.githubLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
