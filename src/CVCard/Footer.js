@@ -1,4 +1,5 @@
 import React from "react";
+
 import TwitterLogo from "/Users/serhiima/projects/CV_React/react-app/src/images/twitter.png";
 import FacebookLogo from "/Users/serhiima/projects/CV_React/react-app/src/images/facebook.png";
 import InstagramLogo from "/Users/serhiima/projects/CV_React/react-app/src/images/instagram.png";

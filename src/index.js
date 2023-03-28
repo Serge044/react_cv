@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "/Users/serhiima/projects/CV_React/react-app/src/style.css";
+
 // import reactLogo from "/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/images/react-logo.png";
 // import App from "./App";
 import CV from "./CV";

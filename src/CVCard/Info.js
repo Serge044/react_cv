@@ -1,4 +1,5 @@
 import React from "react";
+
 import SergePhoto from "/Users/serhiima/projects/CV_React/react-app/src/images/Serge-8bit.png";
 import EmailIcon from "/Users/serhiima/projects/CV_React/react-app/src/images/mail.png";
 import LinkedinIcon from "/Users/serhiima/projects/CV_React/react-app/src/images/linkedin.png";
