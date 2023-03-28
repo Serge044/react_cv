@@ -1,8 +1,9 @@
 import React from "react";
-import TwitterLogo from "/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/images/twitter.png";
-import FacebookLogo from "/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/images/facebook.png";
-import InstagramLogo from "/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/images/instagram.png";
-import GithubLogo from "/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/images/github.png";
+
+import TwitterLogo from "/Users/serhiima/projects/CV_React/react-app/src/images/twitter.png";
+import FacebookLogo from "/Users/serhiima/projects/CV_React/react-app/src/images/facebook.png";
+import InstagramLogo from "/Users/serhiima/projects/CV_React/react-app/src/images/instagram.png";
+import GithubLogo from "/Users/serhiima/projects/CV_React/react-app/src/images/github.png";
 
 export default function Footer() {
   return (
