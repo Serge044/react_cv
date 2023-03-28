@@ -1,0 +1,215 @@
+/* old practice */
+
+/* * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #2c2c2c;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 90px;
+    padding: 30px 25px;
+}
+
+nav > h3, nav > h4 {
+    margin: 0;
+}
+
+nav > img {
+    height: 70px;
+}
+
+nav > h3 {
+    margin-right: auto;
+    color: #61DAFB;
+    font-weight: 700;
+    font-size: 22;
+}
+
+nav > h4 {
+    color: #DEEBF8;
+}
+
+main {
+    height: 500px;
+    padding: 57 px 27 px;
+    color: white;
+    background-image: url(/Users/serhiima/projects/create-react-app_freeCodeCamp/react-app/src/images/react-logo.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+main > h1 {
+    margin: 0;
+    font-size: 39px;
+} */
+
+/* CV */
+* {
+    /* background-color: #1F2025; */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1F2025;
+}
+
+p {
+    color: #A2A1A4;
+}
+
+#root {
+    /* display: flex;
+    justify-content: center; */
+    background-color: #141519;
+    /* border: 5px solid; */
+    margin: auto;
+    width: 400px;
+    height: 950px;
+    color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+/* Info */
+
+.divInfo {
+    /* display: flex;
+    flex-direction: column; */
+    /* margin: auto; */
+
+}
+
+.sergePhoto {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.infoTexts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fedText {
+    padding-top: 5px;
+    font-size: 15px;
+    color: #BF6329;
+}
+
+.websiteText {
+    padding-top: 10px;
+    font-size: 14px;
+    color: #A2A1A4;
+}
+
+.buttonsLinks {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.emailLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 40px;
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.linkedinLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 40px;
+    background-color: rgb(77, 169, 250);
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.emailIcon {
+    width: 15px;
+    margin-right: 5px;
+    /* background-color: white; */
+}
+
+.emailText {
+    color: black;
+}
+
+.linkedinText {
+    color: whitesmoke;
+}
+
+.linkedinIcon {
+    width: 15px;
+    margin-right: 5px;
+    background-color: whitesmoke;
+    border-radius: 10%;
+}
+
+/* About */
+
+.divAbout {
+    /* border: 1px dotted whitesmoke; */
+    padding: 20px;
+}
+
+/* Interests */
+
+.divInterests {
+    /* border: 1px dotted whitesmoke; */
+    padding: 20px;
+}
+
+/* Footer */
+
+.divFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px dotted whitesmoke; */
+    padding-top: 20px;
+}
+
+.twitterLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.facebookLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.instagramLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
+
+.githubLogo {
+    width: 30px;
+    background-color: #A2A1A4;
+    margin: 20px;
+    border-radius: 10%;
+}
