@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_cv/static/css/main.17d3ab0a.css",
+    "main.js": "/react_cv/static/js/main.8f202301.js",
+    "static/media/Serge-8bit.png": "/react_cv/static/media/Serge-8bit.80e2df45c12d8fcdd0a1.png",
+    "index.html": "/react_cv/index.html",
+    "main.17d3ab0a.css.map": "/react_cv/static/css/main.17d3ab0a.css.map",
+    "main.8f202301.js.map": "/react_cv/static/js/main.8f202301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d3ab0a.css",
+    "static/js/main.8f202301.js"
+  ]
+}
